@@ -249,7 +249,7 @@ body {
     background-color: #f9f9f9;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(/asset/loader.gif);
+    background-image: url(asset/loader.gif);
 }
 
 /*http://xeosoft.com/ajaxloader*/
@@ -259,7 +259,7 @@ body {
     background-color: #f9f9f9;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(/asset/loader.gif);
+    background-image: url(asset/loader.gif);
     
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
@@ -393,92 +393,92 @@ body {
 }
 
 #info .button {
-    background-image: url(/asset/info.png);
+    background-image: url(asset/info.png);
 }
 
 #info:hover .button, #info.active .button {
-    /*background-image: url(/asset/info_hover.png);*/
+    /*background-image: url(asset/info_hover.png);*/
     background-color: #3e404a;
 }
 
 #information .button {
-    background-image: url(/asset/information.png);
+    background-image: url(asset/information.png);
 }
 
 #information:hover .button, #information.active .button {
-    /*background-image: url(/asset/information_hover.png);*/
+    /*background-image: url(asset/information_hover.png);*/
     background-color: #3e404a;
 }
 
 #mail .button {
-    background-image: url(/asset/mail.png);
+    background-image: url(asset/mail.png);
 }
 
 #mail:hover .button, #mail.active .button {
-    /*background-image: url(/asset/mail_hover.png);*/
+    /*background-image: url(asset/mail_hover.png);*/
     background-color: #3e404a;
 }
 
 #feedback .button {
-    background-image: url(/asset/feedback.png);
+    background-image: url(asset/feedback.png);
 }
 
 #feedback:hover .button, #feedback.active .button {
-    /*background-image: url(/asset/feedback_hover.png);*/
+    /*background-image: url(asset/feedback_hover.png);*/
     background-color: #3e404a;
 }
 
 .button.close {
-    background-image: url(/asset/close.png);
+    background-image: url(asset/close.png);
 }
 
 .button.close:hover, .button.close.active {
-    /*background-image: url(/asset/close_hover.png);*/
+    /*background-image: url(asset/close_hover.png);*/
     background-color: #3e404a;
 }
 
 #share .button {
-    background-image: url(/asset/share.png);
+    background-image: url(asset/share.png);
 }
 
 #share:hover .button, #share.active .button {
-    /*background-image: url(/asset/share_hover.png);*/
+    /*background-image: url(asset/share_hover.png);*/
     background-color: #3e404a;
 }
 
 .up-arrow.button {
-    background-image: url(/asset/up.png);
+    background-image: url(asset/up.png);
 }
 
 .down-arrow.button {
-    background-image: url(/asset/down.png);
+    background-image: url(asset/down.png);
 }
 
 .left-arrow.button {
-    background-image: url(/asset/left.png);
+    background-image: url(asset/left.png);
 }
 
 .right-arrow.button {
-    background-image: url(/asset/right.png);
+    background-image: url(asset/right.png);
 }
 
 .up-arrow.button:hover, .up-arrow.button.active {
-    /*background-image: url(/asset/up_hover.png);*/
+    /*background-image: url(asset/up_hover.png);*/
     background-color: #3e404a;
 }
 
 .down-arrow.button:hover, .down-arrow.button.active {
-    /*background-image: url(/asset/down_hover.png);*/
+    /*background-image: url(asset/down_hover.png);*/
     background-color: #3e404a;
 }
 
 .left-arrow.button:hover, .left-arrow.button.active {
-    /*background-image: url(/asset/left_hover.png);*/
+    /*background-image: url(asset/left_hover.png);*/
     background-color: #3e404a;
 }
 
 .right-arrow.button:hover, .right-arrow.button.active {
-    /*background-image: url(/asset/right_hover.png);*/
+    /*background-image: url(asset/right_hover.png);*/
     background-color: #3e404a;
 }
 
@@ -770,7 +770,7 @@ form input[type="submit"]:hover {
     height: 40%;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(/asset/white-loader.gif);
+    background-image: url(asset/white-loader.gif);
     
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
