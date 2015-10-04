@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<projects>
+
+
+    <!--Project 1-->
+    <project>
+        <title>Emirates 24|7</title>
+        <overview>
+            <paragraph>Redesign for Emirates 24|7 news-app; for both iPhone and iPad. 
+Role; design UI and some UX.
+</paragraph>
+            <image>/content/image/Emirates_cover.jpg</image>
+        </overview>
+        <detail>
+            <paragraph>This was joy all the way through while I was about to design my first app that will be out for the public.
+Hope there is a lot more news apps to come.
+</paragraph>
+            <image>/content/image/Emirates_case.jpg</image>
+        </detail>
+    </project>
+
+
+    <!--Project 2-->
+    <project>
+        <title>Cobone</title>
+        <overview>
+            <paragraph>Cobone features a daily market-focused deal on the best things to do, see, eat and buy in cities across the Middle East. Role; design UI and some UX.</paragraph>
+            <image>/content/image/Cobone_cover.jpg</image>
+        </overview>
+        <detail>
+            <paragraph>Brief; Create a new design for both iPhone and Android.</paragraph>
+            <image>/content/image/Cobone_case.jpg</image>
+        </detail>
+    </project>
+
+
+    <!--Project 3-->
+    <project>
+        <title>Sochi</title>
+        <overview>
+            <paragraph>Betting news site with the Olympic Games 2014 in Sochi in focus.</paragraph>
+            <image>/content/image/Sochi_cover.jpg</image>
+        </overview>
+        <detail>
+            <paragraph>Brief; Create a new design and concept for a gambling/sport site focused on the Olympics 2014.</paragraph>
+            <image>/content/image/Sochi_case.jpg</image>
+        </detail>
+    </project>
+
+
+    <!--Project 4-->
+    <project>
+        <title>Best by Chefs</title>
+        <overview>
+            <paragraph>Best by Chefs, is an interactive online experience designed to showcase the beauty of the new Internet Explorer 10. Role; design UI/UX and concept.</paragraph>
+            <image>/content/image/Microsoft_cover.jpg</image>
+        </overview>
+        <detail>
+            <paragraph>Brief; Internet Explorer released their new upgraded browser and wanted to create awareness for their existing and new users.
+        We figured that food is interesting for almost everyone and for them who is not interested in cooking, we gave a new way of interacting with recipes.</paragraph>
+            <image>/content/image/Microsoft_case.jpg</image>
+        </detail>
+    </project>
+
+
+<!--Project 5-->
+    <project>
+        <title>titititle</title>
+        <overview>
+            <paragraph>Small par</paragraph>
+            <image>/content/image/Microsoft_cover.jpg</image>
+        </overview>
+        <detail>
+            <paragraph>DetailDetailDetailDetailDetail</paragraph>
+            <image>/content/image/Microsoft_case.jpg</image>
+        </detail>
+    </project>
+    
+    
+</projects>
