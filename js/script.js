@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $.ajax({
         type: "get",
-        url: "../content/xml/general.xml",
+        url: "content/xml/general.xml",
         dataType: "xml",
         success: function (xml) {
             $("#abbreviation").append(
@@ -34,7 +34,7 @@ $(document).ready(function () {
     });
     $.ajax({
         type: "get",
-        url: "../content/xml/projects.xml",
+        url: "content/xml/projects.xml",
         dataType: "xml",
         success: function (xml) {
             $(xml).find("project").each(function (index) {
